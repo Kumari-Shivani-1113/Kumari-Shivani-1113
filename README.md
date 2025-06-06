@@ -2,8 +2,8 @@
 
 🎓 Graduate Student | MS in Information Systems @ Pace University, NY (May 2025)  
 💼 Ex-Application Development Analyst @ Accenture India (AT&T Client)  
-📊 Data Enthusiast | Aspiring Data Scientist | Technology Lover  
-🌍 Based in New York City | Open to Internships (Summer/Fall 2025)
+📊 Data Enthusiast | Aspiring Data Analyst | Technology Lover  
+🌍 Based in New York City | Open to Work 
 
 ---
 
@@ -16,69 +16,88 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+🛠️ Technical Skills
+Data Visualization: Power BI, Tableau
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+Programming & Querying: DAX, SQL, Python (Pandas, NumPy, Scikit-Learn)
 
-- **Data Analysis:** Python (Pandas, NumPy, SciPy), SQL (MySQL, MS SQL Server)
-- **Big Data:** Hive, AWS EMR, HDFS
-- **Visualization:** Tableau, Power BI, RapidMiner
-- **Programming:** Python, Basic Java
-- **Tools:** GitHub, Microsoft Excel (VLOOKUP, Pivot Tables)
+Database Management: Microsoft SQL Server, MySQL
 
----
+Machine Learning: Predictive modeling, classification, data preprocessing
 
-## 📈 Notable Projects
+Tools: Power Query, Excel, AWS EMR, Apache Hive
 
-- ✈️ **Flight Delay Prediction**  
-  *Built ML models (SVM, Random Forest) on 2007 airline data using AWS EMR and Tableau for visualization.*
-  
-- 🛒 **Analytical Data Store Implementation**  
-  *Designed an ADS using AWS Redshift, PostgreSQL, and Python ETL scripts.*
+📂 Projects
+1. HR Analytics Dashboard | Power BI
+Developed an interactive HR dashboard to visualize employee metrics (headcount, gender distribution, department allocation).
 
-- 🏡 **Apartment Price Prediction Model**  
-  *Predicted property prices using regression models and Scikit-Learn pipelines.*
+Technologies: Power BI, DAX, Power Query
 
-- 🌾 **Smart Agriculture Monitoring System (SAMOS)**  
-  *Research paper exploring IoT and data analytics for agricultural optimization.*
+Key Features:
 
----
+Dynamic filtering by department, gender, and age group.
 
-## 📚 Currently Learning
+Data cleaning and transformation using Power Query.
 
-- Machine Learning (Advanced)
-- Big Data Engineering (AWS, Spark)
-- Advanced Tableau Dashboards
+Visualizations: Bar charts, pie charts, KPI cards.
 
----
+View Dashboard Screenshots (link to images or report)
 
-## 🌱 Interests
+2. Flight Delay Prediction | Machine Learning
+Predicted flight delays using 2007 airline data with 90% accuracy (SVM model).
 
-- AI & Machine Learning
-- Data Science for Social Good
-- Startups and Entrepreneurship
-- Technology and Innovation Trends
+Technologies: Python (Scikit-Learn), Apache Hive, AWS EMR, Tableau
 
----
+Key Contributions:
 
-## 🚀 Future Goals
+Compared SVM, Random Forest, and Logistic Regression models.
 
-- Become a skilled Data Scientist / Analyst
-- Build AI-powered solutions that impact lives
-- Contribute to open-source data projects
-- Inspire and mentor future tech enthusiasts
+Processed large-scale data with Apache Hive on AWS EMR.
 
----
+Visualized insights in Tableau for airline scheduling optimization.
 
-## 📫 Let's Connect!
+View Project Code (link to GitHub or Colab notebook)
 
-- [LinkedIn](https://linkedin.com/in/kumari-shivani-367989227)
-- 📧 Email: shivanirajput1113@gmail.com
-- 📱 Phone: 917-602-4395
+3. Bank Customer Churn Prediction | Machine Learning
+Built a Decision Tree model (93% accuracy) to predict customer churn for a bank.
+
+Technologies: Python (Pandas, Scikit-Learn), Tableau
+
+Key Steps:
+
+Cleaned data (handled missing values, one-hot encoding).
+
+Validated model with 5-fold cross-validation.
+
+Created Tableau dashboards to visualize churn patterns.
+
+View Dashboard (link to Tableau Public or report)
+
+💼 Professional Experience
+Power BI Developer | Accenture (2019–2023)
+AT&T Client:
+
+Built dashboards to monitor 500+ kiosks (99.5% uptime).
+
+Automated ticket analysis using DAX and row-level security.
+
+MISC–AET Project:
+
+Designed role-based dashboards with incremental data refresh.
+
+Optimized data models for efficient reporting.
+
+📚 Education
+M.S. in Information Science | Pace University (Expected 2025)
+
+B.E. in Computer Science | Punjab Technical University (2019)
+
+📫 Connect With Me
+Email: shivanirajput1113@gmail.com
+
+LinkedIn: linkedin.com/in/kumari-shivani-367989227
+
+Phone: 917-602-4395
 
 ---
 
